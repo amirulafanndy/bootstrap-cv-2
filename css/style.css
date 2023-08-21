@@ -1,0 +1,16 @@
+.nav-bar {
+    position: fixed;
+    z-index: 10;
+}
+
+.about-me {
+    padding-top: 60px;
+}
+
+.work-experience {
+    padding-top: 60px;
+}
+
+table {
+    max-width: 800px;
+}
